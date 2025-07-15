@@ -1,9 +1,0 @@
-fastapi 
-uvicorn 
-python-dotenv 
-twilio 
-elevenlabs 
-websockets
-mangum
-supabase
-pydantic_settings
